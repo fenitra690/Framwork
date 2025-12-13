@@ -1,6 +1,11 @@
 /home/fenitra/Bureau/5/naina/framework/FW/fw/src/main/java/fw/annotation/MyController.java
 /home/fenitra/Bureau/5/naina/framework/FW/fw/src/main/java/fw/util/ModelView.java
 /home/fenitra/Bureau/5/naina/framework/FW/fw/src/main/java/fw/annotation/MyUrl.java
+<<<<<<<< HEAD:MonFramework/sprint-6-ter/sprint-6-ter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/home/fenitra/Bureau/5/naina/framework/FW/fw/src/main/java/fw/helper/CMethod.java
+/home/fenitra/Bureau/5/naina/framework/FW/fw/src/main/java/fw/annotation/MyRequestParam.java
+========
 /home/fenitraBureau/5/naina/framework/FW/fw/src/main/java/fw/helper/CMethod.java
+>>>>>>>> main:MonFramework/sprint6/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 /home/fenitra/Bureau/5/naina/framework/FW/fw/src/main/java/fw/helper/Helper.java
 /home/fenitra/Bureau/5/naina/framework/FW/fw/src/main/java/fw/core/FrontServlet.java
